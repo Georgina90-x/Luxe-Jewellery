@@ -22,6 +22,7 @@ body {
     font-family: 'Baskervville SC';
 }
 
+
 /* from Bulma */
 .icon {
     align-items: center;
@@ -31,6 +32,7 @@ body {
     width: 1.5rem;
 }
 
+/* Logo & Main Text Styling */
 .logo-font {
     text-transform: uppercase;
 }
@@ -39,6 +41,7 @@ body {
     width: fit-content;
 }
 
+/* Button Styling */
 .shop-now-button {
     background: var(--teal);
     color: var(--black);
@@ -66,6 +69,11 @@ body {
 
 .border-black {
     border: var(--black) 1px solid !important;
+}
+
+/* Delivery Banner Styling */
+.delivery-banner-bg {
+    background: var(--teal)!important;
 }
 
 /* -------------------------------------------MEDIA QUERIES */
