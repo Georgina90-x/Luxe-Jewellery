@@ -1,0 +1,93 @@
+:root {
+    --teal: #0ababd;
+    --black: #000;
+    --white: #fff;
+}
+
+.baskervville-sc-regular {
+    font-family: "Baskervville SC", serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
+html {
+    height: 100%;
+}
+
+body {
+    background: url('/media/luxe-jewellery-homepage-bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: calc(100vh - 164px);
+    color: #555;
+    font-family: 'Baskervville SC';
+}
+
+/* from Bulma */
+.icon {
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    height: 1.5rem;
+    width: 1.5rem;
+}
+
+.logo-font {
+    text-transform: uppercase;
+}
+
+.main-logo-link {
+    width: fit-content;
+}
+
+.shop-now-button {
+    background: var(--teal);
+    color: var(--black);
+    min-width: 260px;
+}
+
+.btn-black {
+    background: var(--black);
+    color: var(--white);
+}
+
+.shop-now-button:hover,
+.shop-now-button:active,
+.shop-now-button:focus,
+.btn-black:hover,
+.btn-black:active,
+.btn-black:focus {
+    background: #222;
+    color: var(--white);
+}
+
+.text-black {
+    color: var(--black) !important;
+}
+
+.border-black {
+    border: var(--black) 1px solid !important;
+}
+
+/* -------------------------------------------MEDIA QUERIES */
+
+/* XL Screens */
+@media (min-width: 1200px) {
+    .container {
+        max-width: 80%;
+    }
+}
+
+/* Medium Screens & Bigger - Fixed Navbar */
+@media (min-width: 992px) {
+    .fixed-top-desktop-only {
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+    }
+
+    .header-container {
+        padding-top: 164px;
+    }
+}

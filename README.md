@@ -196,6 +196,7 @@ The following are credits to various people and technologies that have directly 
 | [Flaticon](https://www.flaticon.com/free-icons/sports-and-competition) | Favicon | Used as the favicon for the application. |
 | [Udacity](https://www.udacity.com/blog/2021/03/creating-an-html-404-error-web-page.html) | 404 Page | Used to create an Error 404 page. |
 | [LucidChart](https://www.lucid.app) | README | Used to create a Use Case & Database Schema Diagram. |
+| [Prahant Photography](https://unsplash.com/photos/a-woman-in-a-wedding-dress-holding-a-bouquet-of-flowers-BCfLP5HVzyY) | Homepage| Used as the background image on the homepage |
 
 ### Acknowledgements
 
