@@ -1,9 +1,11 @@
+/* Root style colour scheme */
 :root {
     --teal: #0ababd;
     --black: #000;
     --white: #fff;
 }
 
+/* Website font */
 .baskervville-sc-regular {
     font-family: "Baskervville SC", serif;
     font-weight: 400;
@@ -74,6 +76,17 @@ body {
 /* Delivery Banner Styling */
 .delivery-banner-bg {
     background: var(--teal)!important;
+}
+
+/* Style for white background overlay */
+.overlay {
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    background: var(--white);
+    z-index: -1;
 }
 
 /* -------------------------------------------MEDIA QUERIES */
