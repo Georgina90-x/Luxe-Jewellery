@@ -56,6 +56,17 @@ body {
     color: var(--white);
 }
 
+.btn-outline-black {
+    background: var(--white);
+    color: var(--black) !important;
+    border: var(--black) 1px solid;
+}
+
+.btn-teal {
+    background: var(--teal);
+    color: var(--black);
+}
+
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
@@ -72,6 +83,10 @@ body {
 
 .border-black {
     border: var(--black) 1px solid !important;
+}
+
+.border-teal {
+    border: var(--teal) 1px solid !important;
 }
 
 /* Delivery Banner Styling */
