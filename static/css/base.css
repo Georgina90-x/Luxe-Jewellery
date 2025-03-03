@@ -94,7 +94,23 @@ a.category-badge > span.badge:hover {
     background: var(--teal) !important;
     color: var(--white) !important;
 }
+/* Style for back to top button in products */
+.btt-button {
+    height: 42px;
+    width: 42px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
 
+.btt-button:hover {
+    background: var(--teal) !important;
+    color: var(--white) !important;
+}
+
+.btt-link {
+    cursor: pointer;
+}
 /* -------------------------------------------MEDIA QUERIES */
 
 /* XL Screens */
