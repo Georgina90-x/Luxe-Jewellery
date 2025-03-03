@@ -112,6 +112,10 @@ a.category-badge > span.badge:hover {
 .btt-link {
     cursor: pointer;
 }
+
+footer {
+    background: var(--teal) !important;
+}
 /* -------------------------------------------MEDIA QUERIES */
 
 /* XL Screens */
