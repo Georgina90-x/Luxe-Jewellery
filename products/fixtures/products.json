@@ -8,7 +8,7 @@
         "description": "A wonderful Bracelet from the Annabella collection, made of Sterling Silver featuring 24.60cts of amazing Alto Ligonha Morganite from Mozambique.",
         "price": 249.99,
         "category": 2,
-        "rating": 4.6,
+        "rating": 4.0,
         "image_url": "/Users/georginakidger/Documents/vscode-projects/Luxe-Jewellery/media/alto-morganite-bracelet-lj0000000001.jpg",
         "image": "alto-morganite-bracelet-lj0000000001.jpg"
       }
@@ -22,7 +22,7 @@
           "description": "Blue Mabe Pearl & Zircon 925 Sterling Silver Earrings 15mm",
           "price": 199.99,
           "category": 4,
-          "rating": 4.6,
+          "rating": 4.1,
           "image_url": "/Users/georginakidger/Documents/vscode-projects/Luxe-Jewellery/media/blue-mabe-pearl-lj0000000002.jpg",
           "image": "blue-mabe-pearl-lj0000000002.jpg"
         }
@@ -36,7 +36,7 @@
           "description": "South Sea Mother Of Pearl Quatrefoil Necklace In 925 Sterling Silver With Zircon Detail",
           "price": 549.99,
           "category": 6,
-          "rating": 4.6,
+          "rating": 4.2,
           "image_url": "/Users/georginakidger/Documents/vscode-projects/Luxe-Jewellery/media/south-sea-mother-of-pearl-silver-necklace-lj0000000003.jpg",
           "image": "south-sea-mother-of-pearl-silver-necklace-lj0000000003.jpg"
         }
@@ -50,7 +50,7 @@
           "description": "A gorgeous Ring from the Annabella collection, made of Sterling Silver featuring 3cts of amazing Ethiopian Blue Sapphire and White Topaz.",
           "price": 249.99,
           "category": 8,
-          "rating": 4.6,
+          "rating": 4.3,
           "image_url": "media/sapphire-ring.jpg",
           "image": "sapphire-ring.jpg"
         }
@@ -64,7 +64,7 @@
           "description": "A stunning Bracelet from the Tomas Rae collection, made of 9K Gold featuring 1cts of dazzling Type IIa Angolan White Diamonds from Angola.",
           "price": 2499.99,
           "category": 1,
-          "rating": 4.6,
+          "rating": 4.4,
           "image_url": "/Users/georginakidger/Documents/vscode-projects/Luxe-Jewellery/media/angolian-white-diamind-gold-bracelet-lj0000000005.jpg",
           "image": "angolian-white-diamind-gold-bracelet-lj0000000005.jpg"
         }
@@ -78,7 +78,7 @@
           "description": "A Stunning pair of Earrings from the Tomas Rae Collection, made of 9K Gold featuring 1/2ct of sparkling Type Ila Angolan White Diamonds from Angola.",
           "price": 1499.99,
           "category": 3,
-          "rating": 4.6,
+          "rating": 4.5,
           "image_url": "/Users/georginakidger/Documents/vscode-projects/Luxe-Jewellery/media/angolan-white-diamond-gold-earrings-lj0000000006.jpg",
           "image": "angolan-white-diamond-gold-earrings-lj0000000006.jpg"
         }
@@ -106,7 +106,7 @@
           "description": "A stunning Ring from the Tomas Rae collection, made of 9K Two Tone Gold featuring 3/4cts of sparkling Type IIa VS1 Angolan Pink Diamond from Angola.",
           "price": 24449.99,
           "category": 7,
-          "rating": 4.6,
+          "rating": 4.7,
           "image_url": "/Users/georginakidger/Documents/vscode-projects/Luxe-Jewellery/media/angolan-pink-diamond-gold-ring-lj0000000008.jpg",
           "image": "angolan-pink-diamond-gold-ring-lj0000000008.jpg"
         }

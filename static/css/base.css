@@ -89,6 +89,12 @@ body {
     z-index: -1;
 }
 
+/* Style for category badge backgrounds */
+a.category-badge > span.badge:hover {
+    background: var(--teal) !important;
+    color: var(--white) !important;
+}
+
 /* -------------------------------------------MEDIA QUERIES */
 
 /* XL Screens */
