@@ -56,6 +56,15 @@ body {
     font-family: 'Raleway', serif;
 }
 
+/* DECIDE WHETHER YOU WANT THIS TO BE THIS FONT
+.account-shopping-bag {
+    font-family: 'Raleway', serif;
+} */
+
+.shopping-bag {
+    font-family: 'Raleway', serif;
+}
+
 /* Button Styling */
 .shop-now-button {
     background: var(--teal);

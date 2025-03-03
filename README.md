@@ -56,27 +56,23 @@ Below is a mockup image of the WorkoutCrew application created using the "Am I R
 ## UX
 
 - The design for Final Project 4 was created as a series of wireframes covering mobile, tablet and desktop to determine the initial design and layout of the site.
-- Final Project 4 is designed to be simple and easy to navigate using standard user conventions.
-- The application displays all workouts on the homepage to the signed in user and features a search bar at the top to search the database with ease.
+- Final Project 4 is designed to be simple and easy to navigate using standard user conventions for ecommerce websites.
+- The applications display the homepage, view products pages, product details pages and the shopping basket.
 
 ### Colour Scheme
 
-- I decided to go with a ----- colour scheme...
+- I decided to go with a clean and crisp colour scheme with a white background using black as the main colour for text/icons and a teal to provide a pop of colour to the screen.
 - The colours used are as follows:-
 
-- `#ffffff` used for primary text.
-- `#880e4f` used for the header, footer, card panels and icons.
-- `#000000` used for secondary text and edit buttons.
-- `#20b2aa` used for 'done' button.
-- `#0, 0, 0, 0.5` used for text shadows.
+- `#ffffff` used for primary text and buttons.
+- `#000000` used for the background and secondary text.
+- `#0ababd` used for banner and other details.
 
 I have used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
 
 ```css
 :root {
-    --dark-pink: #880e4f;
-    --light-pink: #ffe6ee;
-    --light-green: #20b2aa;
+    --teal: #0ababd;
     --black: #000;
     --white: #fff;
 }
@@ -84,10 +80,10 @@ I have used CSS `:root` variables to easily update the global colour scheme by c
 
 ### Typography
 
-- I used the Google Font called 'Special Elite' for the Final Project 4 site.
+- I used the Google Fonts called 'Baskervville SC' and 'Raleway' for the Luxe Jewellery website.
 
-- [Special Elite](https://fonts.google.com/specimen/Special+Elite) was used for all text within the site.
-
+- [Baskervville SC](https://fonts.google.com/specimen/Baskervville+SC) was used for the main text on the site such as the navbar.
+- [Raleway](https://fonts.google.com/specimen/Raleway) was used for product, product/details and shopping bag pages.
 - [Font Awesome](https://fontawesome.com) icons were used in the Final Project 4 site.
 
 ## User Stories
