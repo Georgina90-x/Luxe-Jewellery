@@ -141,11 +141,11 @@ Defensive programming was manually tested with the below user acceptance testing
 
 The following are bugs that I have come across while creating the Workout site.
 
-- Multiple selection does not autofill. - When editing a workout, the category dropdown should autofill however it did not work.
+- Unable to write appropriate language that processes the multiple different size names for rings, bracelets and necklaces. It works for Rings but when trying to include the logic for bracelets and necklaces, it runs an error. Figuring out how best to write the view and the context for multiple if/else statements to handle the logic for the other sizes.
 
 | Original image | Bug fixed image |
 | :---: | :---: |
-| ![screenshot]() | ![screenshot]() |
+| ![screenshot](media/TESTING Media/bug-bracelet-necklace-sizes-add-to-basket.png) | ![screenshot]() |
 
 - To fix this...
 
